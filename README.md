@@ -1,7 +1,7 @@
 ## Hi, I'm Gatik 👋
 
 CS + Applied Math & Statistics @ Stony Brook University (May 2027)  
-Building at the intersection of **ML/AI engineering** and **quantitative modeling**
+Building at the intersection of **ML/AI engineering**, **quantitative modeling**, and **systems programming**
 
 ---
 
@@ -22,7 +22,6 @@ Building at the intersection of **ML/AI engineering** and **quantitative modelin
 **ML / AI**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -32,10 +31,10 @@ Building at the intersection of **ML/AI engineering** and **quantitative modelin
 **Data & Backend**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3776AB?style=flat&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 **Databases & Storage**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -47,7 +46,7 @@ Building at the intersection of **ML/AI engineering** and **quantitative modelin
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
+![ncurses](https://img.shields.io/badge/ncurses-00599C?style=flat&logo=c&logoColor=white)
 
 **Tools & Infra**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -59,17 +58,21 @@ Building at the intersection of **ML/AI engineering** and **quantitative modelin
 ---
 
 ### 📌 Experience
-- **Software Dev Intern @ Helmerich & Payne** — LLM pipelines, anomaly detection ML, automated code review (95% bug detection)
+- **Software Dev Intern @ Helmerich & Payne** — LLM pipelines for drilling data, anomaly detection ML, automated code review achieving 95% bug detection rate
 - **TA @ Stony Brook** — Calculus III & OOP/Data Structures · 350+ students · 20% avg exam score improvement
-- **Researcher @ NY Academy of Sciences** — CNN forest fire detection · 97.42% classification accuracy
+- **Researcher @ NY Academy of Sciences** — CNN model for forest fire detection · 97.42% classification accuracy
 
 ---
 
 ### 🚀 Projects
-- **[CareerLens](https://huggingface.co/spaces/gayadav/careerlens)** — AI job search co-pilot · `RAG · ChromaDB · GPT-4o-mini · Streamlit` · [GitHub](https://github.com/gatikyadav/careerlens)
-- **[Playlister](https://github.com/gatikyadav/playlister)** — Full-stack YouTube playlist app · `React · Node · Express · MongoDB`
-- **InsureIQ** *(coming soon)* — Actuarial risk modeling · `Poisson/Gamma GLMs · XGBoost · Streamlit`
-- **C Systems Project** *(coming soon)*
+
+- **[CareerLens](https://huggingface.co/spaces/gayadav/careerlens)** — AI job search co-pilot ingesting 1,000+ live postings via Adzuna API into a ChromaDB vector store, with semantic resume-job matching, skill gap analysis, and LLM-powered resume tailoring via GPT-4o-mini · `Python · RAG · ChromaDB · Streamlit` · [GitHub](https://github.com/gatikyadav/careerlens)
+
+- **[Playlister](https://github.com/gatikyadav/playlister)** — Full-stack MERN app for creating and sharing YouTube music playlists with user auth, song catalog, undo/redo editing, and multi-criteria search · `React · Node · Express · MongoDB · YouTube API`
+
+- **[poker-server](https://github.com/gatikyadav/poker-server)** — 6-player Texas Hold'em engine in C with concurrent TCP server, custom binary wire protocol, ncurses TUI client, and GoogleTest log comparison suite · `C · POSIX Sockets · ncurses · Linux`
+
+- **InsureIQ** *(coming soon)* — Actuarially-grounded insurance risk modeling with Poisson/Gamma GLMs benchmarked against XGBoost on 678K French MTPL policies · `Python · statsmodels · XGBoost · Streamlit`
 
 ---
 
