@@ -68,11 +68,12 @@ Building at the intersection of **ML/AI engineering**, **quantitative modeling**
 
 - **[CareerLens](https://huggingface.co/spaces/gayadav/careerlens)** — AI job search co-pilot ingesting 1,000+ live postings via Adzuna API into a ChromaDB vector store, with semantic resume-job matching, skill gap analysis, and LLM-powered resume tailoring via GPT-4o-mini · `Python · RAG · ChromaDB · Streamlit` · [GitHub](https://github.com/gatikyadav/careerlens)
 
+- **[InsureIQ](https://huggingface.co/spaces/gayadav/InsureIQ)** — Actuarial insurance risk modeling · Poisson/Gamma GLM frequency-severity pricing on 678K French MTPL policies, benchmarked against XGBoost · `Python · statsmodels · XGBoost · Streamlit` · [GitHub](https://github.com/gatikyadav/InsureIQ)
+
 - **[Playlister](https://github.com/gatikyadav/playlister)** — Full-stack MERN app for creating and sharing YouTube music playlists with user auth, song catalog, undo/redo editing, and multi-criteria search · `React · Node · Express · MongoDB · YouTube API`
 
 - **[poker-server](https://github.com/gatikyadav/poker-server)** — 6-player Texas Hold'em engine in C with concurrent TCP server, custom binary wire protocol, ncurses TUI client, and GoogleTest log comparison suite · `C · POSIX Sockets · ncurses · Linux`
 
-- **InsureIQ** *(coming soon)* — Actuarially-grounded insurance risk modeling with Poisson/Gamma GLMs benchmarked against XGBoost on 678K French MTPL policies · `Python · statsmodels · XGBoost · Streamlit`
 
 ---
 
